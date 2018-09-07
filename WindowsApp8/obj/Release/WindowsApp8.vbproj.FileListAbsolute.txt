@@ -1,0 +1,17 @@
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\bin\Release\WindowsApp8.exe.config
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\bin\Release\WindowsApp8.exe
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\bin\Release\WindowsApp8.pdb
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\bin\Release\WindowsApp8.xml
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\bin\Release\c.to-api.dll
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\bin\Release\Newtonsoft.Json.dll
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\bin\Release\Newtonsoft.Json.xml
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.Form1.resources
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.Form2.resources
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.Resources.resources
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.vbproj.GenerateResource.cache
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.vbproj.CoreCompileInputs.cache
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.vbproj.CopyComplete
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.exe
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.xml
+C:\Users\Luke\source\repos\WindowsApp8\WindowsApp8\obj\Release\WindowsApp8.pdb
